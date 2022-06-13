@@ -21,7 +21,7 @@ export default class About extends Component {
             <div className="centered">
               <div className="name_title">Jessica Ike</div>
                 <div className="brief_description">
-                  Hello! My name is Jessica Ike, I am a Junior at the University of Houston studying Computer Science 
+                  Hello! My name is Jessica Ike, I am a Junior at the University of Houston studying Computer Science.
                 </div>
               </div>
             </div>
